@@ -1,2 +1,0 @@
-
-#include<CL/cl.hpp>

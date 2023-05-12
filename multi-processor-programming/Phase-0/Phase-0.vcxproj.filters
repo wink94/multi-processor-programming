@@ -15,14 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\multi-processor-programming\phase0\project0\project0\project0.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="phase_0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\multi-processor-programming\phase0\project0\project0\hello.cl" />
+    <None Include="..\..\..\..\multi-processor-programming\phase0\project0\project0\hello.cl">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

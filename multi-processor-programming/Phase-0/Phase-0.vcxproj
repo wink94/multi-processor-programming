@@ -136,8 +136,7 @@
     <None Include="..\..\..\..\multi-processor-programming\phase0\project0\project0\hello.cl" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\multi-processor-programming\phase0\project0\project0\project0.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="phase_0.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
